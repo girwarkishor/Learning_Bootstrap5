@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap5_learning",
+  "version": "1.0.0",
+  "description": "\"# Learning_Bootstrap5\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girwarkishor/Learning_Bootstrap5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girwarkishor/Learning_Bootstrap5/issues"
+  },
+  "homepage": "https://github.com/girwarkishor/Learning_Bootstrap5#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "sass": "^1.26.9"
+  }
+}

@@ -1,0 +1,17 @@
+$body-bg: #f3f3f3;
+
+$utilities: (
+  "width": (
+    property: width,
+    class: w,
+    values: (
+      25: 25%,
+      50: 50%,
+      75: 75%,
+      100: 100%,
+      auto: auto
+    )
+  )
+ );
+
+ @import "../node_modules/bootstrap/scss/bootstrap";
