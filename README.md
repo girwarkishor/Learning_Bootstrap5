@@ -1,1 +1,10 @@
-"# Learning_Bootstrap5" 
+# Bootstrap 5 Alpha
+
+## What's New & What Changed?
+
+Bootstrap logo changed  
+jQuery is completely dropped  
+Custom properties added  
+Dropped Internet 11 support  
+Expanded the color palette  
+They add own icon  
