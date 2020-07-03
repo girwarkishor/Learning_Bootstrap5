@@ -11,4 +11,5 @@ Expanded the color palette
 They add own icon  
 Responsive font sizes  
 Gutter width unit of measurement changed  
-Moving from Jekyll to Hugo
+Moving from Jekyll to Hugo  
+Major Javascript updates
