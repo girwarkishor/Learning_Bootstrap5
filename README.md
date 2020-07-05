@@ -12,4 +12,5 @@ They add own icon
 Responsive font sizes  
 Gutter width unit of measurement changed  
 Moving from Jekyll to Hugo  
-Major Javascript updates
+Major Javascript updates  
+Minor CSS and class updates and fixes
