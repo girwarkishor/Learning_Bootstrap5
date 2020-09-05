@@ -1,4 +1,5 @@
 # Bootstrap 5 Alpha
+![Bootstrap 5 logo](https://blog.getbootstrap.com/assets/img/2020/06/v5-new-logo.png)
 
 ## What's New & What Changed?
 
