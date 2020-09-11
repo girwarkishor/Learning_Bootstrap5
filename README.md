@@ -52,6 +52,6 @@ Minor CSS and class updates and fixes
 npm i bootstrap@next
 ```
 ## Link
-https://v5.getbootstrap.com/
-https://themes.getbootstrap.com/
-https://v5.getbootstrap.com/docs/5.0/getting-started/download/
+https://v5.getbootstrap.com/  
+https://themes.getbootstrap.com/  
+https://v5.getbootstrap.com/docs/5.0/getting-started/download/  
